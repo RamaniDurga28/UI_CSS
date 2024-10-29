@@ -1,0 +1,12 @@
+body{
+    background-image:url(gvpcew.jpg);
+    border-radius: 200%;
+    background-repeat: no-repeat;
+   background-size: 100%;
+    background-size: cover; 
+    height: 100vh;
+
+}
+.b a:hover{
+    color:aqua;
+}
